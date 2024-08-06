@@ -102,12 +102,16 @@ server---->client
 ### 效果展示：
 
 - 客户端界面展示
+  
 ![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%872.png)
 - 多客户端间通信
+  
 ![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%871.png)
 - 头像选择（注：目前只能选择提供的头像否则可能无法识别）
+  
 ![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%873.png)
 - 下载文件
+  
 ![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%875.png)
 
 
