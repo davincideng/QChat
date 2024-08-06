@@ -86,8 +86,8 @@ server---->client
    
 
 ### 效果展示：
+![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%874.png)
 
-<img src="C:\Users\davincideng\AppData\Roaming\Typora\typora-user-images\image-20240806204419280.png" alt="image-20240806204419280"  />
 
 ## 客户端
 
@@ -102,20 +102,13 @@ server---->client
 ### 效果展示：
 
 - 客户端界面展示
-
-  ![image-20240806220214133](C:\Users\davincideng\AppData\Roaming\Typora\typora-user-images\image-20240806220214133.png)
-
+![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%872.png)
 - 多客户端间通信
-
-![image-20240806213141039](C:\Users\davincideng\AppData\Roaming\Typora\typora-user-images\image-20240806213141039.png)
-
+![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%871.png)
 - 头像选择（注：目前只能选择提供的头像否则可能无法识别）
-
-![image-20240806213243047](C:\Users\davincideng\AppData\Roaming\Typora\typora-user-images\image-20240806213243047.png)
-
+![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%873.png)
 - 下载文件
-
-![image-20240806220148571](C:\Users\davincideng\AppData\Roaming\Typora\typora-user-images\image-20240806220148571.png)
+![image](https://github.com/davincideng/QChat/blob/main/img/%E5%9B%BE%E7%89%875.png)
 
 
 
